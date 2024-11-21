@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: f41ca4e315f8c944785876a3e90d3f2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_0"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4771
+        width: 247
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3592dd31a8e54fa4b9d9c4450736d
+      internalID: -336759539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_1"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4736
+        width: 249
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a66326be2f5d4c499317b49de7256ee
+      internalID: -362909365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_2"
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4822
+        width: 228
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3efa7cc739f043828c7c490bbd512
+      internalID: 1144462666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_3"
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4685
+        width: 225
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b17b2fa835c84e844c0e607c5f0c8
+      internalID: 1395915390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_4"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4142
+        width: 246
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f5c51b83715f8438d29485f6dda215
+      internalID: -471971429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_5"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 4104
+        width: 249
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eef08ac6992614f9ee76f8ba62b217
+      internalID: 136824720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_6"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4190
+        width: 228
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33bd19d6aae5d24d9ac2d14f76a3a6a
+      internalID: 1788361606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_7"
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 4098
+        width: 222
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5ef830240ade4d866010a2ab73b2e
+      internalID: -1233278535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_8"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3499
+        width: 246
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4ce4210806fd4fae0608a2d962bf9
+      internalID: -115271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_9"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3460
+        width: 250
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9326cdc88026484aa3dd3836f222815
+      internalID: 1311376733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_10"
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3546
+        width: 228
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6e1d64b99944a4593a8926597199df
+      internalID: 523571292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_11"
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3454
+        width: 222
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532af1d389709d40bb7351182070248
+      internalID: 57452018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_12"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2837
+        width: 246
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9c2f340bcf3940929cb1c9be21a71
+      internalID: 1159129303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_13"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2802
+        width: 252
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac103957800e92a4e8f6799a0531eead
+      internalID: 556641164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_14"
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2885
+        width: 226
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da92c8789ebb64692d9cd654a93d3c
+      internalID: -196508493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_15"
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 2796
+        width: 222
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64b742112330c41aa6e33884c6d775
+      internalID: 1552344600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_0": -336759539
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_1": -362909365
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_10": 523571292
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_11": 57452018
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_12": 1159129303
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_13": 556641164
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_14": -196508493
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_15": 1552344600
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_2": 1144462666
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_3": 1395915390
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_4": -471971429
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_5": 136824720
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_6": 1788361606
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_7": -1233278535
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_8": -115271698
+      "Sin ti\u0301tulo - 27 de septiembre de 2024 15.19.14_9": 1311376733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
